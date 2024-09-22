@@ -205,6 +205,11 @@ ORDER BY
 Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
 This data model also shows how FACT_Budget hsa been connected to FACT_InternetSales and other necessary DIM tables.
 
+![image](https://github.com/user-attachments/assets/3852c4a9-05ab-4d11-a3f8-154f62917383)
+
+# Sales Management Dashboard
+The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
+![image](https://github.com/user-attachments/assets/8b6f3917-8219-4ce6-8e4a-81cf7627317c)
 
 
 
